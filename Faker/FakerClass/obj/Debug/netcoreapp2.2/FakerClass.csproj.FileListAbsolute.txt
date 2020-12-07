@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Faker\FakerClass\bin\Debug\netcoreapp2.2\FakerClass.deps.json
+C:\Users\Lenovo\Desktop\Faker\FakerClass\bin\Debug\netcoreapp2.2\FakerClass.dll
+C:\Users\Lenovo\Desktop\Faker\FakerClass\bin\Debug\netcoreapp2.2\FakerClass.pdb
+C:\Users\Lenovo\Desktop\Faker\FakerClass\obj\Debug\netcoreapp2.2\FakerClass.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Faker\FakerClass\obj\Debug\netcoreapp2.2\FakerClass.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Faker\FakerClass\obj\Debug\netcoreapp2.2\FakerClass.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Faker\FakerClass\obj\Debug\netcoreapp2.2\FakerClass.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Faker\FakerClass\obj\Debug\netcoreapp2.2\FakerClass.dll
+C:\Users\Lenovo\Desktop\Faker\FakerClass\obj\Debug\netcoreapp2.2\FakerClass.pdb
